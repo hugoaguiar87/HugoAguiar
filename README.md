@@ -8,7 +8,7 @@ Sou um Front-End Developer  em processo de Formação ⛏🖥️ <br/>
 <br/>
 <br/>
 Atualmente trabalho como Representante de Vendas,<br/>
-Mas estou em processo de Migração de Área de Atuação
+Mas estou em processo de Transição de Área de Atuação
  <br/>
 <br/>💻   Estou estudando e me aprofundando em CSS, Html, JavaScript
 <br/>💬   Sobre mim: Curto Tecnologias, Games, Mercado Financeiro, Área Empresarial
