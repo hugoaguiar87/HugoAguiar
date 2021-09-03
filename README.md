@@ -14,7 +14,7 @@ Mas estou em processo de Transição de Área de Atuação
 <br/>💬   Sobre mim: Curto Tecnologias, Games, Mercado Financeiro, Área Empresarial
 <br/>📧   Entre em contato comigo:
 <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-HugoAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-aguiar-63338321b/)](https://www.linkedin.com/in/hugo-aguiar-63338321b/) 
+[![Linkedin Badge](https://img.shields.io/badge/-HugoAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoaguiar87/)](https://www.linkedin.com/in/hugoaguiar87/) 
 <br/>
 <br/>
 
