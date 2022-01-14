@@ -12,6 +12,7 @@ Me encantei pelo mundo de oportunidades que tem na área de tecnologia, e para i
 <br/>🌍   "Menor que meu sonho eu não posso ser!" -> Tenho essa frase como meta de vida. E meus sonhos são grandes, então bora lá realizá-los! 
 <br/>📧   Entre em contato comigo:
 <br/>
+<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-HugoAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugoaguiar87/)](https://www.linkedin.com/in/hugoaguiar87/) 
 <br/>
 <br/>
